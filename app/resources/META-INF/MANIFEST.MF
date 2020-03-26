@@ -1,0 +1,76 @@
+Manifest-Version: 1.0
+Built-By: 1.0.0
+Created-By: Android Gradle 1.0.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: CtX03+Qgoprqa57E60QDkBlhDGA=
+
+Name: res/drawable-xxhdpi-v4/convention.png
+SHA1-Digest: krP7H2q4OOisvepWKaApL0nSY1E=
+
+Name: res/drawable-hdpi-v4/convention.png
+SHA1-Digest: AF5DID6RbMN95Qb0UQVhDyoWTZc=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: dLDpgwVX2qN0lJ2IL4f2bZE8HLE=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: MA7Uc0kSAvB0KkdUCxJoBLwfdtc=
+
+Name: res/menu/menu_list.xml
+SHA1-Digest: GCldw+WaTkArkGh5Q1/sj8R1ivw=
+
+Name: res/layout/activity_record_list.xml
+SHA1-Digest: hi0Q638jynx97I/TD/HWuQw/AsM=
+
+Name: res/drawable-mdpi-v4/convention.png
+SHA1-Digest: 0TV0VFl1s0U8hXvlaomMF+54xxs=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: DFYVNs0wTXuMNIwwEM4GwZzQX84=
+
+Name: res/drawable-xhdpi-v4/convention.png
+SHA1-Digest: KLjkb0vyYm0EyQF4DFVY5nOrPTU=
+
+Name: res/drawable-xhdpi-v4/face.png
+SHA1-Digest: lr8H+UJ90wtGDT5wMdu+KmOyQRM=
+
+Name: res/menu/menu_record_list.xml
+SHA1-Digest: GCldw+WaTkArkGh5Q1/sj8R1ivw=
+
+Name: res/drawable-hdpi-v4/face.png
+SHA1-Digest: if6vtBhB/N5CQbSmd4FWmXtlLVE=
+
+Name: res/drawable-xxhdpi-v4/face.png
+SHA1-Digest: d7tp3BOJyxqyH4OofiaR3l96F/8=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: SWilzK8Dktl2xUCjLL3mea2+M0U=
+
+Name: res/layout/row.xml
+SHA1-Digest: 3j5vN41DJJx+JfqKAP0mDR471QA=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: xW+7htTYeSfu0s7DhwbhxynWSG8=
+
+Name: resources.arsc
+SHA1-Digest: rTG8JPm5J+y1jetZ2eE42T/df48=
+
+Name: res/drawable-mdpi-v4/face.png
+SHA1-Digest: qjy1sYTSWzqVerwFi25EH5bgkJY=
+
+Name: res/layout/activity_convention_list.xml
+SHA1-Digest: 687kRxMPEhVP/wYjcBhP4mupy24=
+
+Name: res/layout/activity_sign_in.xml
+SHA1-Digest: 5KdhOxScVPqgOpr2INm59s/clV0=
+
+Name: classes.dex
+SHA1-Digest: NlPvsIHcZiKVeT3Ny9DDUVrt4jA=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: sa1RVQP6B0Kq1LITpOHqd8S/28M=
+
+Name: res/menu/menu_sign_in.xml
+SHA1-Digest: GCldw+WaTkArkGh5Q1/sj8R1ivw=
+

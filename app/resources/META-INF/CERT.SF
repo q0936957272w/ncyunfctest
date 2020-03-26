@@ -1,0 +1,76 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: gU84iUINucL4jNHlda0gAZT76vw=
+Created-By: 1.0 (Android)
+
+Name: AndroidManifest.xml
+SHA1-Digest: 9KNky5iOYBet2fag51byUXnnuuI=
+
+Name: res/drawable-xxhdpi-v4/convention.png
+SHA1-Digest: LxV6paar2SW4OQPWYe5EYAiaJFg=
+
+Name: res/drawable-hdpi-v4/convention.png
+SHA1-Digest: eqa5E1S25HzBXif4b2KRltDoE7Q=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: aXFRFMGWcbKgq6WbROyVW4OLwjc=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: hJ6+3j/+hb9vUvGE9WJjoNQlZaU=
+
+Name: res/menu/menu_list.xml
+SHA1-Digest: GHrOPnTsZls3/LTzIq3XkaQgE5Q=
+
+Name: res/layout/activity_record_list.xml
+SHA1-Digest: E2Lx7H2mviEorhYE7r/FBJJwHt0=
+
+Name: res/drawable-mdpi-v4/convention.png
+SHA1-Digest: bkwnbnxjlieHp8MqvPeTeLWIpfI=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: 0XO6lMQNx/uwNbmgkihz04WGGU4=
+
+Name: res/drawable-xhdpi-v4/convention.png
+SHA1-Digest: OBqqEn3HMKTsSrF5fwTQVj9yKAk=
+
+Name: res/drawable-xhdpi-v4/face.png
+SHA1-Digest: +j7ZR8WI97DeuXvKlnRj3RlCr6U=
+
+Name: res/menu/menu_record_list.xml
+SHA1-Digest: aSooiL0GmGicXBzSK8JUCbGtDdo=
+
+Name: res/drawable-hdpi-v4/face.png
+SHA1-Digest: lObWwJC5KkjlJKyVxV93GJlcdoY=
+
+Name: res/drawable-xxhdpi-v4/face.png
+SHA1-Digest: siMh8AwFZuG0pgKTp5xhrHXTa2o=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: +WcBtvV3cC/1Y0HpAy4OeJ+eT7k=
+
+Name: res/layout/row.xml
+SHA1-Digest: xaqsqjO1Ch8LUV4xG3dUz8CEx9o=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: YdialyMrViC5bKnHikcgy/qaFzM=
+
+Name: resources.arsc
+SHA1-Digest: 3eBumblUR1sSsz3UI/GtWGB79ZU=
+
+Name: res/drawable-mdpi-v4/face.png
+SHA1-Digest: 0q4Q7t/rhj98XAKeHVyoDLicnGs=
+
+Name: res/layout/activity_convention_list.xml
+SHA1-Digest: WdufMK8lE8FN5XynFFbrJKWsMXQ=
+
+Name: res/layout/activity_sign_in.xml
+SHA1-Digest: ntHpQInwXVk4UbofrfgALGutDHE=
+
+Name: classes.dex
+SHA1-Digest: pWPXIQS7ddaVSqLwjiI9yW/p564=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: arNoGRyzBLKz5YEnjvEHs2PnIqs=
+
+Name: res/menu/menu_sign_in.xml
+SHA1-Digest: Rjknh6Ai47IU/xSJ6qeOxp7lRZI=
+

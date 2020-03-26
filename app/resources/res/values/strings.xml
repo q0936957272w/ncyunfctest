@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">設定</string>
+    <string name="app_name">登入app</string>
+    <string name="cancel">取消</string>
+    <string name="changeText">請靠卡切換使用者</string>
+    <string name="changeUser_dialog_title">切換使用者？</string>
+    <string name="close">關閉</string>
+    <string name="exitApp_dialog_title">離開應用程式？</string>
+    <string name="loginText">請靠卡登入使用者</string>
+    <string name="login_dialog_title">請選擇登入帳號</string>
+    <string name="records">簽到記錄</string>
+    <string name="signIn2Text">或輸入人員編號簽到</string>
+    <string name="signInText">請靠卡簽到</string>
+    <string name="signin">靠卡簽到</string>
+    <string name="submit">確定</string>
+    <string name="title_activity_convention_list">會議清單</string>
+    <string name="title_activity_record_list">簽到記錄</string>
+    <string name="title_activity_sign_in">靠卡簽到</string>
+</resources>
